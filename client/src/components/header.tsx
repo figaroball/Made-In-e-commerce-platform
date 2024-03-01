@@ -36,7 +36,7 @@ const Header: React.FC<HeaderProps> = ({ image, children = 'Space Explorer' }) =
       </div>
     </Container>
   );
-}
+};
 
 export default Header;
 
